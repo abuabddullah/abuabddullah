@@ -1,4 +1,4 @@
-![MERN Developer || Next JS || Redux || TypeScript](https://i.ibb.co/XtYc7QT/GITHUB-BANNER-1.png)
+![MERN Developer || Next JS || Redux || TypeScript](https://i.ibb.co/n14kDHm/GITHUB-BANNER-2.png)
 
 ### Hi there 👋, I am Asif
 
