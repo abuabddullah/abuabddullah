@@ -1,14 +1,31 @@
-![MERN Developer || Next JS || Redux || TypeScript]([[https://i.ibb.co/f02jnyn/GITHUB.png](https://i.ibb.co/yV6J7BW/ASIF-Linked-In-Banner.png)](https://i.ibb.co/yV6J7BW/ASIF-Linked-In-Banner.png))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abuabddullah)
 
 ### Hi there 👋, I am Asif
 
-#### MERN Developer || Next JS || Redux || TypeScript
+#### MERN Stack Developer || Create and design websites that are both appealing and functional || React.js Developer
 
-I am a Frontend focused Full Stack Web Developer and a web learner.
+I am a full-stack web developer and lifelong learner specializing in the MERN stack (MongoDB, Express, React, Node), and I am proficient in Git. My passion lies in creating visually appealing and highly functional websites. Through rigorous self-learning, I completed a comprehensive Web Development course and earned the prestigious "Black Belt" rank.
 
 I build websites like service providers, E-commerce, Portfolio, and Stock tracking. I regularly Learn web development in deeper. I am passionate about full-stack web development. I work hard and am very much focused on my interest field.
 
-Every day I am learning and implementing my skills in projects that's providing value to my skills
+My portfolio (github.com/abuabddullah) showcases various projects, including dynamic single-page applications and robust back-end services. These projects highlight my problem-solving abilities and technical skills.
+
+Before transitioning to web development, I earned a B.Sc in Textile Engineering and worked as a Lab Incharge in the textile industry. This background has equipped me with a unique perspective on problem-solving and innovation. In textiles, I honed analytical skills, attention to detail, and a strong work ethic—qualities I now bring to web development.
+
+Eager to pivot towards the IT sector, I am committed to leveraging my skills to create impactful digital experiences. My journey from textiles to tech reflects my dedication to continuous learning and merging creativity with technology. I am driven to build websites and applications that provide exceptional user experiences.
+
+Every day I am learning and implementing my skills in projects that provide value to my skills
+
+I am open to new opportunities and collaborations. Connect with me at, 
+phone:+8801939032974
+email: asifaowadud@gmail.com
+
+Explore my portfolio at 
+https://asifaowadud.netlify.app/
+
+Let’s work together to create something extraordinary.
+
+In summary, I am a Full Stack Web Developer dedicated to creating impactful digital experiences. With strong technical skills, creativity, and problem-solving abilities, I am fully committed to web development, bringing a unique perspective from my diverse background to every project.
 
 Skills: NEXT JS / REDUX / REACT / JS / HTML / CSS / TYPESCRIPT
 
