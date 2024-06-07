@@ -1,4 +1,4 @@
-[<img src='https://i.ibb.co/YXDN8WP/ASIF-Linked-In-Banner.png' alt='github banner' width="1280">](https://github.com/abuabddullah)
+[<img src='https://i.ibb.co/Z2D3DbT/enlarge-ASIF-Linked-In-Banner-1.png' alt='github banner' width="1280">](https://github.com/abuabddullah)
 
 ### Hi there 👋, I am Asif
 
