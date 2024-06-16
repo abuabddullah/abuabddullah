@@ -27,10 +27,10 @@ Let’s work together to create something extraordinary.
 
 In summary, I am a Full Stack Web Developer dedicated to creating impactful digital experiences. With strong technical skills, creativity, and problem-solving abilities, I am fully committed to web development, bringing a unique perspective from my diverse background to every project.
 
-Skills: NEXT JS / REDUX / REACT / JS / HTML / CSS / TYPESCRIPT
+Skills: REACT / JS / HTML / CSS / MONGODB / EXPRESS / NODE
 
-- 🔭 I’m currently working on React Redux
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on Mongoose Schemas
+- 🌱 I’m currently learning Mongoose Schemas
 - 👯 I’m looking to collaborate on gitHub
 - 💬 Ask me about Web Development
 - 📫 How to reach me: asifaowadud@gmail.com
