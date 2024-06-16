@@ -30,7 +30,7 @@ In summary, I am a Full Stack Web Developer dedicated to creating impactful digi
 Skills: REACT / JS / HTML / CSS / MONGODB / EXPRESS / NODE
 
 - 🔭 I’m currently working on Mongoose Schemas
-- 🌱 I’m currently learning Mongoose Schemas
+- 🌱 I’m currently learning Mongoose
 - 👯 I’m looking to collaborate on gitHub
 - 💬 Ask me about Web Development
 - 📫 How to reach me: asifaowadud@gmail.com
