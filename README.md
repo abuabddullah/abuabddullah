@@ -1,4 +1,4 @@
-[<img src='https://i.ibb.co/Z2D3DbT/enlarge-ASIF-Linked-In-Banner-1.png' alt='github banner' width="1280">](https://github.com/abuabddullah)
+[<img src='https://i.ibb.co/Xpqph5S/ASIF-Linked-In-Banner.jpg' alt='github banner' width="1280">](https://github.com/abuabddullah)
 
 ### Hi there 👋, I am Asif
 
@@ -30,7 +30,7 @@ In summary, I am a Full Stack Web Developer dedicated to creating impactful digi
 Skills: REACT / JS / HTML / CSS / MONGODB / EXPRESS / NODE
 
 - 🔭 I’m currently working on Mongoose Schemas
-- 🌱 I’m currently learning Mongoose
+- 🌱 I’m currently learning Next JS
 - 👯 I’m looking to collaborate on gitHub
 - 💬 Ask me about Web Development
 - 📫 How to reach me: asifaowadud@gmail.com
