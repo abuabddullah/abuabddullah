@@ -1,8 +1,8 @@
-[<img src='https://i.ibb.co/Xpqph5S/ASIF-Linked-In-Banner.jpg' alt='github banner' width="1280">](https://github.com/abuabddullah)
+[<img src='https://i.ibb.co/995PGV8/ASIF-Linked-In-Banner.png' alt='github banner' width="1280">](https://github.com/abuabddullah)
 
 <h1>Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29">, I am Asif  </h1>
 
-#### MERN Stack Developer || Create and design websites that are both appealing and functional || React.js Developer
+#### Full Stack MERN Developer | JavaScript Expert | React.js Specialist | Nextjs Enthusiast | Typescript Learner | Building Scalable & Responsive Web Applications | Frontend & Backend Developer
 
 # 💫 About Me:
 
