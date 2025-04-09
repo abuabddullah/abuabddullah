@@ -53,5 +53,5 @@ In summary, I am a Full Stack Web Developer dedicated to creating impactful digi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+  <img  width="100%" height="180em" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </p>
