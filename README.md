@@ -50,7 +50,6 @@ In summary, I am a Full Stack Web Developer dedicated to creating impactful digi
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p align="center">
   <img  width="100%" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
