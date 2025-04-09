@@ -1,4 +1,4 @@
-[<img src='https://i.ibb.co/995PGV8/ASIF-Linked-In-Banner.png' alt='github banner' width="1280">](https://github.com/abuabddullah)
+[<img src='https://res.cloudinary.com/dglsw3gml/image/upload/v1744160034/Professionals/ASIF_LinkedIn_Banner_rr28jt.png' alt='github banner' width="100%">](https://github.com/abuabddullah)
 
 <h1>Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29">, I am Asif  </h1>
 
