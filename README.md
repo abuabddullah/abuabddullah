@@ -18,7 +18,7 @@ Eager to pivot towards the IT sector, I am committed to leveraging my skills to 
 
 Every day I am learning and implementing my skills in projects that provide value to my skills
 
-I am open to new opportunities and collaborations. Connect with me at,
+I am open to new opportunities and collaborations. Connect with me at,*^,#;$%@^%~
 
 ## 🌐 Socials:
 
