@@ -6,15 +6,32 @@
 
 # 💫 About Me:
 
-I am a full-stack web developer and lifelong learner specializing in the MERN stack (MongoDB, Express, React, Node), and I am proficient in Git. My passion lies in creating visually appealing and highly functional websites. Through rigorous self-learning, I completed a comprehensive Web Development course and earned the prestigious "Black Belt" rank.
+I am Asif graduated from **National Institute Of Textile Engineering And Research** with highest result in my department.
 
-I build websites like service providers, E-commerce, Portfolio, and Stock tracking. I regularly Learn web development in deeper. I am passionate about full-stack web development. I work hard and am very much focused on my interest field.
+Currently, I am working as an **Express Developer** at BdCalling IT , a service-based company. This is my first backend role, though it is my fifth job overall.
 
-My portfolio (github.com/abuabddullah) showcases various projects, including dynamic single-page applications and robust back-end services. These projects highlight my problem-solving abilities and technical skills.
+My career started as a Textile Engineer in **China** , but due to the COVID-19 pandemic, I returned home and spent over few years in the textile industry. During this time, I developed an interest in **coding**, which led me to pursue **internships and job opportunities in tech.**
 
-Before transitioning to web development, I earned a B.Sc in Textile Engineering and worked as a Lab Incharge in the textile industry. This background has equipped me with a unique perspective on problem-solving and innovation. In textiles, I honed analytical skills, attention to detail, and a strong work ethic—qualities I now bring to web development.
+As an Express Developer [mongoose,redis,docker,typescript] , I have been with the company for over **six months** and have contributed to several projects, including:
 
-Eager to pivot towards the IT sector, I am committed to leveraging my skills to create impactful digital experiences. My journey from textiles to tech reflects my dedication to continuous learning and merging creativity with technology. I am driven to build websites and applications that provide exceptional user experiences.
+   - A SaaS product for Auto-mobile Garage services
+   - A multivendor e-commerce platform
+   - A service-based platform similar to mini-Fiverr
+   - An LMS platform for nursing exam preparation
+
+Additionally, I’ve collaborated on several critical projects, including:
+
+   - An event management system
+   - A delivery and ride-sharing app
+
+I have also developed fundamental expertise in:
+
+   - Linux basics
+   - Docker fundamentals
+   - AWS (EC2, S3, IAM)
+   - CI/CD with **GitHub Actions**
+
+Currently, I am focusing on expanding my knowledge in **Generative AI using JavaScript** and am planning to create content on the topic beside self-learning.
 
 Every day I am learning and implementing my skills in projects that provide value to my skills
 
